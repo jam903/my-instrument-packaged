@@ -2,7 +2,7 @@
   "mcpServers": {
     "my-server": {
       "type": "http",
-      "https://your-first-instrument-ohfh.onrender.com"
+      "https://your-first-instrument-ohfh.onrender.com/mcp"
     }
   }
 }
