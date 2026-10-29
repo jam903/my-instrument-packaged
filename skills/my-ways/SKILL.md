@@ -1,11 +1,5 @@
 ---
 name: my-ways
-description: "REPLACE with your s6 description — when your model should reach for your tool, in one honest sentence (keep the quotes; keep name: my-ways above)"
----
-
-
----
-name: my-ways
 description: "Use Coffee Companion to save coffee shop visits, review past experiences, analyze drink and café preferences, and recommend coffee shops based on the user's needs."
 ---
 
